@@ -5,9 +5,10 @@ z = x + y
 printIn(z)
 name = "Yusuf"
 printIn(name)
-------------
+
 x = 15 + 20
 printIn(x)
 z = 10 + 40
 printIn(z)
-Note: There's a mistake regarding if and else statements. Therefore, please do not attempt to use if and else statements.
+
+/*/ Note: There's a mistake regarding if and else statements. Therefore, please do not attempt to use if and else statements. /*/
