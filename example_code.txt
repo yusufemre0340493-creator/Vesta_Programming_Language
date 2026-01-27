@@ -1,0 +1,12 @@
+printIn("Hello World")
+x = 15
+y = 20
+z = x + y
+printIn(z)
+name = "Yusuf"
+printIn(name)
+------------
+x = 15 + 20
+printIn(x)
+z = 10 + 40
+printIn(z)
