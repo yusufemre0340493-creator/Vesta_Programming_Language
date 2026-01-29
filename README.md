@@ -9,7 +9,6 @@ This project is intended for educational and experimental purposes.
 #
 
 🚀 *Features*
-
 #
 
 ***-Java-based infrastructure***
