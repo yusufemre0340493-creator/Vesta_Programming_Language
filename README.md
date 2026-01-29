@@ -5,9 +5,7 @@
 Vesta is an experimental programming language designed with a focus on simplicity, readability, and ease of learning. It is especially suitable for beginners who want to understand how programming languages work and for developers interested in building their own language.
 
 This project is intended for educational and experimental purposes.
-
 #
-
 🚀 *Features*
 #
 
