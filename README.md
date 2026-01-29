@@ -6,45 +6,45 @@ Vesta is an experimental programming language designed with a focus on simplicit
 
 This project is intended for educational and experimental purposes.
 
-🚀 *Features*
+🚀 **Features**
 
-***-Java-based infrastructure***
+*-Java-based infrastructure*
 
-***-Clean and readable syntax***  
+*-Clean and readable syntax*
 
-***-Simple variable declarations****
+*-Simple variable declarations*
 
-***-Output to console using printIn***
+*-Output to console using printIn*
 
-***-Comment support***
+*-Comment support*
 
-***-Beginner-friendly error messages***
-
-#
-
-🎯 *Goals*
-
-***-Make programming concepts easier to understand***
-
-***-Demonstrate how a simple programming language works internally***
-
-***-Serve as a foundation for future language features***
+*-Beginner-friendly error messages*
 
 #
 
-📌 *Roadmap (Planned Features)*
+🎯 **Goals**
 
-***-Functions***
+*-Make programming concepts easier to understand*
 
-***-Loops***
+*-Demonstrate how a simple programming language works internally*
 
-***-File handling***
-
-***-Improved error reporting***
+*-Serve as a foundation for future language features*
 
 #
 
-📜 *License*
+📌 **Roadmap (Planned Features)**
+
+*-Functions*
+
+*-Loops*
+
+*-File handling*
+
+*-Improved error reporting*
+
+#
+
+📜 **License**
 
 **This project is open-source and intended for learning and experimentation.**
 
