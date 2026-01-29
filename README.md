@@ -22,6 +22,8 @@ This project is intended for educational and experimental purposes.
 
 ***-Beginner-friendly error messages***
 
+#
+
 🎯 *Goals*
 
 ***-Make programming concepts easier to understand***
@@ -29,6 +31,8 @@ This project is intended for educational and experimental purposes.
 ***-Demonstrate how a simple programming language works internally***
 
 ***-Serve as a foundation for future language features***
+
+#
 
 📌 *Roadmap (Planned Features)*
 
@@ -40,8 +44,11 @@ This project is intended for educational and experimental purposes.
 
 ***-Improved error reporting***
 
+#
+
 📜 *License*
 
 **This project is open-source and intended for learning and experimentation.**
 
 This project is open-source and intended for learning and experimentation.
+
