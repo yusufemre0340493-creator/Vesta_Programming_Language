@@ -12,9 +12,9 @@ This project is intended for educational and experimental purposes.
 
 ***-Clean and readable syntax***  
 
-****-Simple variable declarations****
+***-Simple variable declarations****
 
-****-Output to console using printIn***
+***-Output to console using printIn***
 
 ***-Comment support***
 
