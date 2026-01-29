@@ -48,5 +48,5 @@ This project is intended for educational and experimental purposes.
 
 **This project is open-source and intended for learning and experimentation.**
 
-This project is open-source and intended for learning and experimentation.
+
 
