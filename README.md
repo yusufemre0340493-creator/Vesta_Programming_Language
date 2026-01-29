@@ -8,7 +8,8 @@ This project is intended for educational and experimental purposes.
 
 #
 
-# 🚀 *Features*
+ 🚀 *Features*
+
 #
 
 ***-Java-based infrastructure***
